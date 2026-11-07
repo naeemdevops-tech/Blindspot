@@ -17,9 +17,9 @@ Download the latest direct install build from the **Releases** tab:
 <!-- Drag and drop your screenshots here inside GitHub's README editor to display them -->
 | Dashboard | Security Login |
 | :---: | :---: |
-| *(Drag screenshot 1 here)<img width="399" height="878" alt="Screenshot 2026-11-07 150845" src="https://github.com/user-attachments/assets/d1cc80ae-ad6b-449c-9512-c3679b2f69bd" />
+| <img width="399" height="878" alt="Screenshot 2026-11-07 150845" src="https://github.com/user-attachments/assets/d1cc80ae-ad6b-449c-9512-c3679b2f69bd" />
 <img width="409" height="853" alt="Screenshot 2026-11-07 150705" src="https://github.com/user-attachments/assets/2eb27e37-e303-4134-a0fe-7740cb2bb017" />
-* | *(Drag screenshot 2 here)* |
+
 
 ---
 
