@@ -35,7 +35,7 @@ Download the latest direct install build from the **Releases** tab:
 
 ## Android Installation Guide
 
-1. Download `app-release.apk` from the latest release.
+1. Download `blindspot.apk` from the latest release.
 2. Tap the file in your notification center or file manager.
 3. If your browser or file manager prompts that installation is blocked:
    - Tap **Settings**.
